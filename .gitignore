@@ -1,10 +1,4 @@
-# Hugo default output directory
-#/public
-#public/
-
-#themes/
 resources/
 layouts/
-
-
+data/
 .vscode/

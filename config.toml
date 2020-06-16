@@ -1,5 +1,78 @@
-baseurl      = "corentin-r.github.io"
-title        = "My Blog2"
+baseurl      = "https://corentin-r.github.io"
+title        = "Corentin Raoult"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
+
+
+[params]
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04 -0700"
+
+    # Subtitle for home
+    homeSubtitle = "Embedded Software Engineer"
+
+    # Set disableReadOtherPosts to true in order to hide the links to other posts.
+    disableReadOtherPosts = true
+
+    # Metadata mostly used in document's head
+    description = "Corentin Raoult's website"
+    keywords = "embedded,engineer,portfolio,developer,software,corentin,raoult,corentin-r,tech,rfid,technical,radio"
+    images = ["myself.jpg"]
+
+    # Default theme "light" or "dark"
+    defaultTheme = "dark"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+    [languages.en]
+        title = "Corentin Raoult"
+        subtitle = "Embedded Software Engineer"
+
+    [languages.en.params.logo]
+        logoText = "cd ~"
+        logoHomeLink = "/"
+        logoCursorColor = "#d9d9d9"
+
+# And you can even create generic menu
+[[menu.main]]
+    identifier = "resume"
+    name       = "Résumé"
+    weight = 310
+    url        = "/Corentin_Raoult_CV.pdf"
+
+[[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
+
+[[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
+
+
+# Social icons
+[[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/coco_raoult"
+
+
+[[params.social]]
+    name = "github"
+    url  = "https://github.com/corentin-R"
+
+[[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/corentin-raoult-70058383/"
+
+
+[author]
+    name = "Corentin Raoult"
 
