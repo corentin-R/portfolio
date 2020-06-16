@@ -1,0 +1,5 @@
+baseurl      = "corentin-r.github.io"
+title        = "My Blog2"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+
