@@ -2,7 +2,7 @@ baseurl      = "https://corentin-r.github.io"
 title        = "Corentin Raoult"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-
+paginate     = 20
 
 [params]
     dateform        = "Jan 2, 2006"

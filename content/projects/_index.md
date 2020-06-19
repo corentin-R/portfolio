@@ -4,5 +4,5 @@ draft: false
 ---
 
 
-#### Small projects done on free time or winthin college courses
+#### Some smalls projects done on free time or winthin college courses
 
