@@ -44,7 +44,7 @@ paginate     = 20
     identifier = "resume"
     name       = "Résumé"
     weight = 310
-    url        = "/Corentin_Raoult_CV.pdf"
+    url        = "/Corentin_Raoult_CV_Juin_2020.pdf"
 
 [[menu.main]]
     identifier = "about"
@@ -70,7 +70,7 @@ paginate     = 20
 
 [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/corentin-raoult-70058383/"
+    url  = "https://www.linkedin.com/in/corentin-raoult/"
 
 
 [author]
