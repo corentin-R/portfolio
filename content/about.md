@@ -8,7 +8,7 @@ draft: true
 
 ## Work experiences
 
-### SpringCard
+### [SpringCard](https://springcard.com)
 
 *Since Feb. 2016*
 
@@ -19,9 +19,28 @@ Working as Embedded Software Engineer at the R&D Office at Angers (49) on mutilp
 * SDKs, applicatives example and drivers on Windows, Linux and Android
 * IoT sensors, gateways and backend
 
-[springcard.com](https://springcard.com)
+Some projects I took part of:
 
-### Pellenc S.A.
+* [Google Pay Smart Tap and Apple Pay VAS for PC/SC couplers](https://github.com/springcard/springcard.pcsc-vas.sdk)
+* PC/SC on Android over [BLE](https://play.google.com/store/apps/details?id=com.springcard.pcsclike_sample_ble) and [USB](https://play.google.com/store/apps/details?id=com.springcard.pcsclike_sample_usb)
+* [Identification application over BLE and NFC](https://play.google.com/store/apps/details?id=com.springcard.SpringBlue)
+* [Application to retrieve reader's information with NFC HCE](https://play.google.com/store/apps/details?id=com.springcard.colorado)
+* [PC/SC SDK on Desktop PC](https://github.com/springcard/springcard.pcsc.sdk)
+
+And some clients projects:
+* [[Pathé-Gaumont movie theaters] Apple Wallet reader](https://www.cinemaspathegaumont.com/actualites/apple-pay)
+* [[Cykleo] GPS Bike Tracker](https://www.cykleo.fr/wp-content/uploads/Plaquette-Cyti.pdf)
+* [[Cykleo] Bike's park counter](https://www.cykleo.fr/wp-content/uploads/Plaquette-Cykipark.pdf)
+* [[Socket Mobile] S550 NFC Reader](https://www.socketmobile.com/products/contactless/socketscan/s550-Bluetooth-RFID-reader)
+
+Technologies used:
+* C, C#, Kotlin, Python, PHP, Javascript, HTML, CSS, Bash
+* Microcontroller (Renesas RX111, RX65x, RL78, Microchip AVR32), FreeRTOS, embedded Linux, Windows and Linux desktop, Android
+* RFID HF and UHF, NFC, PC/SC, WiFi, BLE, OSDP, USB, LoRa, HTTP, MQTT, TLS, Rest API
+* Git, MySQL, Buildroot, Wireshark, Gitlab CI, SDR, GNU Radio, OpenSCAD, Visual Studio
+
+
+### [Pellenc S.A.](https://www.pellenc.com/)
 
 *Jul. 2015 - Dec. 2015*
 
@@ -29,7 +48,12 @@ Working as Embedded Software Engineer at the R&D Office at Angers (49) on mutilp
 Designing and Implementing a USB-WiFi-CAN Bridge on a PIC24 micro-controller.
 Also impemeting a client software on the computer with the Qt framework.
 
-[pellenc.com](https://www.pellenc.com/)
+Technologies used:
+* C/C++, Qt framework
+* Microcontroller (Microchip PIC24), Windows and Linux desktop
+* WiFi, CAN bus, USB, TCP
+* Git, Qt Creator, MPLAB-X
+
 
 
 ### Recreation centers and summer camps
@@ -56,11 +80,15 @@ Working as a chain operator in the rubber seals factory at Segré (49).
 
 Fablab assoctiation based in La Meignanne (49).
 
+Website: [numpourtous.wordpress.com](https://numpourtous.wordpress.com/)
+
 ### Club Elec
 
 *Sep. 2012 - Jun. 2014*
 
-School association.
+School association aiming to help students.
+
+Computer repairs, informatics, electronics courses and projects.
 
 ---
 
