@@ -12,7 +12,7 @@ draft: true
 
 *June 2021 - Dec. 2021*
 
-WOrking on a Network Encryptor.
+Working on a Network Encryptor.
 Sofwtware developpement in C/C++.
 Implementing tests and code-analisys tools in Python.
 
