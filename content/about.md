@@ -8,9 +8,23 @@ draft: true
 
 ## Work experiences
 
+### [Thales](https://www.thalesgroup.com)
+
+*June 2021 - Dec. 2021*
+
+WOrking on a Network Encryptor.
+Sofwtware developpement in C/C++.
+Implementing tests and code-analisys tools in Python.
+
+Technologies used:
+* C/C++, Qt framework, Python, Shell
+* PikeOS, Linux Server
+* Git, Bitbucket, Jira, Jenkins, CMake, QtCreator
+
+
 ### [SpringCard](https://springcard.com)
 
-*Since Feb. 2016*
+*Feb. 2016 - June 2021*
 
 Working as Embedded Software Engineer at the R&D Office at Angers (49) on mutilples projects:
 
