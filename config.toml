@@ -61,7 +61,7 @@ paginate     = 20
 # Social icons
 [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/coco_raoult"
+    url  = "https://twitter.com/corentin_rlt"
 
 
 [[params.social]]

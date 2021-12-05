@@ -26,8 +26,9 @@ Some projects I took part of:
 * [Identification application over BLE and NFC](https://play.google.com/store/apps/details?id=com.springcard.SpringBlue)
 * [Application to retrieve reader's information with NFC HCE](https://play.google.com/store/apps/details?id=com.springcard.colorado)
 * [PC/SC SDK on Desktop PC](https://github.com/springcard/springcard.pcsc.sdk)
+* Some products: [Puck](https://www.springcard.com/en/products/puck-base) ([Youtube video](https://www.youtube.com/watch?v=V82JRSjpwoY)), [Crazy UHF](https://www.springcard.com/en/products/crazy-uhf), [SpringPark](https://www.springcard.com/en/products/springpark)
 
-And some clients projects:
+And some clients' projects:
 * [[Pathé-Gaumont movie theaters] Apple Wallet reader](https://www.cinemaspathegaumont.com/actualites/apple-pay)
 * [[Cykleo] GPS Bike Tracker](https://www.cykleo.fr/wp-content/uploads/Plaquette-Cyti.pdf)
 * [[Cykleo] Bike's park counter](https://www.cykleo.fr/wp-content/uploads/Plaquette-Cykipark.pdf)
@@ -35,7 +36,7 @@ And some clients projects:
 
 Technologies used:
 * C, C#, Kotlin, Python, PHP, Javascript, HTML, CSS, Bash
-* Microcontroller (Renesas RX111, RX65x, RL78, Microchip AVR32), FreeRTOS, embedded Linux, Windows and Linux desktop, Android
+* Microcontroller (Renesas RX111, RX65x, RL78, Microchip AVR32), Secure-Elements, FreeRTOS, embedded Linux, Windows and Linux desktop, Android
 * RFID HF and UHF, NFC, PC/SC, WiFi, BLE, OSDP, USB, LoRa, HTTP, MQTT, TLS, Rest API
 * Git, MySQL, Buildroot, Wireshark, Gitlab CI, SDR, GNU Radio, OpenSCAD, Visual Studio
 
