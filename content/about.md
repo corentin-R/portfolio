@@ -10,7 +10,7 @@ draft: true
 
 ### [Thales](https://www.thalesgroup.com)
 
-*June 2021 - Dec. 2021*
+*Jun. 2021 - Dec. 2021*
 
 Working on a Network Encryptor.
 Sofwtware developpement in C/C++.
@@ -24,7 +24,7 @@ Technologies used:
 
 ### [SpringCard](https://springcard.com)
 
-*Feb. 2016 - June 2021*
+*Feb. 2016 - Jun. 2021*
 
 Working as Embedded Software Engineer at the R&D Office at Angers (49) on mutilples projects:
 
@@ -37,16 +37,14 @@ Some projects I took part of:
 
 * [Google Pay Smart Tap and Apple Pay VAS for PC/SC couplers](https://github.com/springcard/springcard.pcsc-vas.sdk)
 * PC/SC on Android over [BLE](https://play.google.com/store/apps/details?id=com.springcard.pcsclike_sample_ble) and [USB](https://play.google.com/store/apps/details?id=com.springcard.pcsclike_sample_usb)
-* [Identification application over BLE and NFC](https://play.google.com/store/apps/details?id=com.springcard.SpringBlue)
+* [Identification application over BLE and NFC](https://www.springcard.com/uploads/pub/%5BCFS15214-150519%5D_Plaquette_SpringBlue_(fr).pdf)
 * [Application to retrieve reader's information with NFC HCE](https://play.google.com/store/apps/details?id=com.springcard.colorado)
 * [PC/SC SDK on Desktop PC](https://github.com/springcard/springcard.pcsc.sdk)
-* Some products: [Puck](https://www.springcard.com/en/products/puck-base) ([Youtube video](https://www.youtube.com/watch?v=V82JRSjpwoY)), [Crazy UHF](https://www.springcard.com/en/products/crazy-uhf), [SpringPark](https://www.springcard.com/en/products/springpark)
+* Some products: [Puck](https://www.springcard.com/en/products/puck-base) ([Youtube video](https://www.youtube.com/watch?v=V82JRSjpwoY)), [Crazy UHF](https://www.springcard.com/en/products/crazy-uhf), [SpringPark](https://www.springcard.com/en/products/springpark) ([Youtube video](https://www.youtube.com/watch?v=gjqYXhxc4Tg))
 
 And some clients' projects:
 * [[Pathé-Gaumont movie theaters] Apple Wallet reader](https://www.cinemaspathegaumont.com/actualites/apple-pay)
-* [[Cykleo] GPS Bike Tracker](https://www.cykleo.fr/wp-content/uploads/Plaquette-Cyti.pdf)
-* [[Cykleo] Bike's park counter](https://www.cykleo.fr/wp-content/uploads/Plaquette-Cykipark.pdf)
-* [[Socket Mobile] S550 NFC Reader](https://www.socketmobile.com/products/contactless/socketscan/s550-Bluetooth-RFID-reader)
+* [[Socket Mobile] S550 NFC Reader](https://store.socketmobile.eu/products/socketscan-s550-contactless-reader)
 
 Technologies used:
 * C, C#, Kotlin, Python, PHP, Javascript, HTML, CSS, Bash
