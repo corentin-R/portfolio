@@ -89,7 +89,7 @@ Working as a chain operator in the rubber seals factory at Segré (49).
 
 ### Numérique pour Tous Association
 
-*Since May. 2017*
+*May. 2017 - Jun. 2020*
 
 Fablab assoctiation based in La Meignanne (49).
 

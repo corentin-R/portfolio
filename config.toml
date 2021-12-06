@@ -44,7 +44,7 @@ paginate     = 20
     identifier = "resume"
     name       = "Résumé"
     weight = 310
-    url        = "/Corentin_Raoult_CV_Juin_2020.pdf"
+    url        = "/corentin_raoult_cv_decembre_2021.pdf"
 
 [[menu.main]]
     identifier = "about"
