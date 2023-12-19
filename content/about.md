@@ -8,6 +8,21 @@ draft: true
 
 ## Work experiences
 
+
+### [Mors Smitt (Wabtec Group)](https://www.morssmitt.com/)
+
+*Since Jan. 2022*
+
+* Development of EMS systems for railway application
+* Implementation of tests and code analysis tools and Wireshark plugins
+* 
+
+Technologies used:
+* C, C#, Python, Lua, Shell
+* Embedded Linux, Desktop WIndows, Microchip PIC16F
+* Git, Gitlab, Buildroot, Wireshark, SonarQube
+
+
 ### [Thales](https://www.thalesgroup.com)
 
 *Jun. 2021 - Dec. 2021*
