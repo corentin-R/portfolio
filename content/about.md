@@ -15,7 +15,6 @@ draft: true
 
 * Development of EMS systems for railway application
 * Implementation of tests and code analysis tools and Wireshark plugins
-* 
 
 Technologies used:
 * C, C#, Python, Lua, Shell
