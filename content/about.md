@@ -9,16 +9,29 @@ draft: true
 ## Work experiences
 
 
+### [Chapsvision](https://www.chapsvision-cybergov.com/solution/judicial-interception/)
+
+*Since May 2024*
+
+* Development and maintenance of a network probe in C/Python
+* Design and development of network analysis tools and Wireshark plugins
+
+Technologies used:
+* C, Python, Lua, Bash
+* Linux Servers (AlmaLinux, Debian)
+* Git, Gitlab, Wireshark, ElasticShearch, MariaDB
+
+
 ### [Mors Smitt (Wabtec Group)](https://www.morssmitt.com/)
 
-*Since Jan. 2022*
+*Jan. 2022 - May 2024*
 
 * Development of EMS systems for railway application
 * Implementation of tests and code analysis tools and Wireshark plugins
 
 Technologies used:
 * C, C#, Python, Lua, Shell
-* Embedded Linux, Desktop WIndows, Microchip PIC16F
+* Embedded Linux, Desktop Windows, Microchip PIC16F
 * Git, Gitlab, Buildroot, Wireshark, SonarQube
 
 
@@ -26,13 +39,13 @@ Technologies used:
 
 *Jun. 2021 - Dec. 2021*
 
-Working on a Network Encryptor.
-Sofwtware developpement in C/C++.
-Implementing tests and code-analisys tools in Python.
+* Working on a Network Encryptor.
+* Sofwtware developpement in C/C++.
+* Implementing tests and code-analisys tools in Python.
 
 Technologies used:
 * C/C++, Qt framework, Python, Shell
-* PikeOS, Linux Server
+* PikeOS, Linux Servers (Debian)
 * Git, Bitbucket, Jira, Jenkins, CMake, QtCreator
 
 
