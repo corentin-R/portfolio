@@ -67,14 +67,14 @@ Some projects I took part of:
 * [Identification application over BLE and NFC](https://www.springcard.com/uploads/pub/%5BCFS15214-150519%5D_Plaquette_SpringBlue_(fr).pdf)
 * [Application to retrieve reader's information with NFC HCE](https://play.google.com/store/apps/details?id=com.springcard.colorado)
 * [PC/SC SDK on Desktop PC](https://github.com/springcard/springcard.pcsc.sdk)
-* Some products: [Puck](https://www.springcard.com/en/products/puck-base) ([Youtube video](https://www.youtube.com/watch?v=V82JRSjpwoY)), [Crazy UHF](https://www.springcard.com/en/products/crazy-uhf), [SpringPark](https://www.springcard.com/en/products/springpark) ([Youtube video](https://www.youtube.com/watch?v=gjqYXhxc4Tg))
+* Some products: [Puck](https://www.springcard.com/en/products/puck-base) ([Youtube video](https://www.youtube.com/watch?v=V82JRSjpwoY)), [Crazy UHF](https://staging.springcard.com/en/products/crazy-uhf), [SpringPark](https://www.springcard.com/en/products/springpark) ([Youtube video](https://www.youtube.com/watch?v=gjqYXhxc4Tg))
 
 And some clients' projects:
 * [[Pathé-Gaumont movie theaters] Apple Wallet reader](https://www.cinemaspathegaumont.com/actualites/apple-pay)
-* [[Socket Mobile] S550 NFC Reader](https://store.socketmobile.eu/products/socketscan-s550-contactless-reader)
+* [[Socket Mobile] S550 NFC Reader](https://www.socketmobile.com/products/s550)
 
 Technologies used:
-* C, C#, Kotlin, Python, PHP, Javascript, HTML, CSS, Bash
+* C, C#, Kotlin, Python, PHP, JavaScript, HTML, CSS, Bash
 * Microcontroller (Renesas RX111, RX65x, RL78, Microchip AVR32), Secure-Elements, FreeRTOS, embedded Linux, Windows and Linux desktop, Android
 * RFID HF and UHF, NFC, PC/SC, WiFi, BLE, OSDP, USB, LoRa, HTTP, MQTT, TLS, Rest API
 * Git, MySQL, Buildroot, Wireshark, Gitlab CI, SDR, GNU Radio, OpenSCAD, Visual Studio
