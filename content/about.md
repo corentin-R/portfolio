@@ -13,13 +13,13 @@ draft: true
 
 *Since May 2024*
 
-* Development and maintenance of a network probe in C/Python
+* Development and maintenance of a network probe in C and Python for judicial interceptions
 * Design and development of network analysis tools and Wireshark plugins
 
 Technologies used:
 * C, Python, Lua, Bash
 * Linux Servers (AlmaLinux, Debian)
-* Git, Gitlab, Wireshark, ElasticShearch, MariaDB
+* Git, Gitlab, Wireshark, ElasticShearch, MariaDB, CMake
 
 
 ### [Mors Smitt (Wabtec Group)](https://www.morssmitt.com/)
@@ -72,6 +72,7 @@ Some projects I took part of:
 And some clients' projects:
 * [[Pathé-Gaumont movie theaters] Apple Wallet reader](https://www.cinemaspathegaumont.com/actualites/apple-pay)
 * [[Socket Mobile] S550 NFC Reader](https://www.socketmobile.com/products/s550)
+* [[Doctolib] Cards Reader](https://www.springcard.com/en/blog/news/how-springcard-was-able-to-support-afcare-and-doctolib-in-a-mobility-solution-for-healthcare-professionals) ([Article in french](https://info.doctolib.fr/doctolib-lecteur/))
 
 Technologies used:
 * C, C#, Kotlin, Python, PHP, JavaScript, HTML, CSS, Bash
